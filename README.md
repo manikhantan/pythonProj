@@ -1,0 +1,2 @@
+# pythonProj
+Simple python project
